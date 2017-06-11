@@ -1,0 +1,2 @@
+# Exercise-MVC
+Create a page (Index) which displays a table of products. Each product has name, description and price. The table displays products' name and price, and a link to each product's details which is another page (Detail) displaying all info. Add a page with a form to create a new product. Add a button next to every product in Index's table which deletes the product. Add another table to database: Category. Also, update the Product (every product belongs to a category) Update all pages to comply with this change.
